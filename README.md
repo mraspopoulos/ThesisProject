@@ -13,8 +13,8 @@ In this context the project aims to contribute towards the ongoing research effo
 **Funding Received:** 39.952,74 Euros
 
 **Host Organization:** [Center of Interdisciplinary Science Promotion and Innovative Research Exploration (InSPIRE)](http://inspirecenter.org/)
+<img src="./images/Picture2.png" width="75" >
 
-![Inspire](/images/Picture2.png)
 
 **Coordinator:** - [Dr Marios Raspopoulos](https://www.uclancyprus.ac.cy/academic/dr-marios-raspopoulos/) 
 
@@ -36,7 +36,7 @@ Project Team participates to the 13th International Conference on Indoor Positio
 
 
 
-<img src="./images/Picture2.png" width="150" >
+<img src="./images/Picture3.jpg" width="200" >  <img src="./images/Picture4.jpg" width="200" >  <img src="./images/Picture5.jpg" width="200" >  <img src="./images/Picture6.jpg" width="200" >
 
 #### (1st May 2023) 
 Project Starts
