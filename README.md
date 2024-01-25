@@ -20,3 +20,8 @@ In this context the project aims to contribute towards the ongoing research effo
 
 **Researchers:** - [Dr Stelios Ioannou](https://www.uclancyprus.ac.cy/academic/dr-stelios-ioannou/), [Mr Andrey Sesyuk](https://www.linkedin.com/in/asesyuk/)
 
+# Deliverables
+
+
+# Publications
+
