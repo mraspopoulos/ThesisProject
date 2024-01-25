@@ -33,6 +33,11 @@ Paper titled 'Radar-based millimeter-Wave sensing for accurate 3D Indoor Positio
 #### (25 September 2023 - 28 September 2023)
 Project Team participates to the 13th International Conference on Indoor Positioning and Indoor Navigation (IPIN) was organized by the Fraunhofer Institute for Integrated Circuits IIS with the support of researchers from the German Aerospace Center (DLR) and the Stuttgart University of Applied Sciences. 
 
+
+
+
+<img src="./images/Picture2.png" width="150" >
+
 #### (1st May 2023) 
 Project Starts
 
