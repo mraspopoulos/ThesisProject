@@ -1,4 +1,4 @@
-![Banner](/assets/thesisbanner.png)
+![Banner](/assets/Thesisbanner.png)
 
 
 # thesisProject
