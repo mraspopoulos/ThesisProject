@@ -12,7 +12,9 @@ In this context the project aims to contribute towards the ongoing research effo
 
 **Funding Received:** 39.952,74 Euros
 
-**Host Organization:** Center of Interdisciplinary Science Promotion and Innovative Research Exploration (InSPIRE)
+**Host Organization:** [Center of Interdisciplinary Science Promotion and Innovative Research Exploration (InSPIRE)](http://inspirecenter.org/)
+
+![Inspire](/images/Picture2.png)
 
 **Coordinator:** - [Dr Marios Raspopoulos](https://www.uclancyprus.ac.cy/academic/dr-marios-raspopoulos/) 
 
