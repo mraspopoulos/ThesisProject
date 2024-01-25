@@ -13,6 +13,7 @@ In this context the project aims to contribute towards the ongoing research effo
 **Funding Received:** 39.952,74 Euros
 
 **Host Organization:** [Center of Interdisciplinary Science Promotion and Innovative Research Exploration (InSPIRE)](http://inspirecenter.org/)
+
 <img src="./images/Picture2.png" width="75" >
 
 
