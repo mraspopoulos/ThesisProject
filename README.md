@@ -1,3 +1,6 @@
+![Banner](/assets/thesisbanner.png)
+
+
 # thesisProject
 
 ### Education
