@@ -53,4 +53,4 @@ Project Starts
 # Publications
 
 - A. Sesyuk, S. Ioannou and M. Raspopoulos, "3D millimeter-Wave Indoor Localization," 2023 13th International Conference on Indoor Positioning and Indoor Navigation (IPIN), Nuremberg, Germany, 2023, pp. 1-7, doi: [10.1109/IPIN57070.2023.10332537](https://ieeexplore.ieee.org/document/10332537).
-- A.Sesyuk, S. Ioannou and M. Raspopoulos, “Radar-based millimeter-Wave sensing for accurate 3D Indoor Positioning - Potentials and Challenges”, submitted to IEEE Journal on Indoor Seamless Positioning and Navigation – under review (resubmitted revised version after receiving feedback)
+- A. Sesyuk, S. Ioannou and M. Raspopoulos, "Radar-based millimeter-Wave sensing for accurate 3D Indoor Positioning - Potentials and Challenges," in IEEE Journal of Indoor and Seamless Positioning and Navigation, doi: [10.1109/JISPIN.2024.3359151](https://ieeexplore.ieee.org/document/10415170).
