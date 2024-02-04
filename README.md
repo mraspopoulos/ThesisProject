@@ -42,7 +42,7 @@ Project Starts
 
 # Videos
 [![3D Drone Positioning using mmWave Sensing]
-(/images/videoPicture2.png)]
+(<img src="./images/videoPicture2.png" width="200" >)]
 (https://www.youtube.com/watch?v=5V9xu1u4u2c)
 
 # Deliverables
