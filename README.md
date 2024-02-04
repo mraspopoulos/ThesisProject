@@ -41,7 +41,9 @@ Project Starts
 
 
 # Videos
-[![3D Drone Positioning using mmWave Sensing] (/images/videoPicture2.png)](https://www.youtube.com/watch?v=5V9xu1u4u2c)
+[![3D Drone Positioning using mmWave Sensing]
+(/images/videoPicture2.png)]
+(https://www.youtube.com/watch?v=5V9xu1u4u2c)
 
 # Deliverables
 - [Deliverable 3.1](/deliverables/THESIS_D3.1.pdf)
