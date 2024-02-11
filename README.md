@@ -44,10 +44,10 @@ Project Starts
 [![3D Drone Positioning using mmWave Sensing](https://img.youtube.com/vi/5V9xu1u4u2c/0.jpg)](https://www.youtube.com/watch?v=5V9xu1u4u2c)
 
 # Deliverables
-- [Deliverable 3.1](/deliverables/THESIS_D3.1.pdf)
-- [Deliverable 3.2](/deliverables/THESIS_D3.2.pdf)
-- [Deliverable 4.1](/deliverables/THESIS_D4.1.pdf)
-- [Deliverable 4.2](/deliverables/THESIS_D4.2.pdf)
+- Deliverable 3.1[Report](/deliverables/THESIS_D3.1.pdf)
+- Deliverable 3.2[Report](/deliverables/THESIS_D3.2.pdf)
+- Deliverable 4.1[Report](/deliverables/THESIS_D4.1.pdf)
+- Deliverable 4.2[Report](/deliverables/THESIS_D4.2.pdf)
 
 
 # Publications
