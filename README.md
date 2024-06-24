@@ -17,7 +17,7 @@ In this context the project aims to contribute towards the ongoing research effo
 <img src="./images/Picture2.png" width="75" >
 
 
-**Coordinator:** - [Dr Marios Raspopoulos](https://www.uclancyprus.ac.cy/academic/dr-marios-raspopoulos/) 
+**Coordinator:** - [Dr Marios Raspopoulos](https://mraspopoulos.github.io/) 
 
 **Researchers:** - [Dr Stelios Ioannou](https://www.uclancyprus.ac.cy/academic/dr-stelios-ioannou/), [Mr Andrey Sesyuk](https://www.linkedin.com/in/asesyuk/)
 
